@@ -9,6 +9,11 @@ The database has a graphic interface that can be used to get data, but this cann
 
 In addition, we may want to easily update the personal database every once in a while, to get hold of new data.
 
+
+# Files
+The file powerMVM.py is the latest program version, and the R files are as of february 2022 deprecated.
+
+
 # To Do:
 - [x] Create a series of functions which together download all observations from all sites and all years
 - [ ] Fix the pseudo-duplicated column names. Preferrably by merging all child taxa into one parent taxa (on what level?? Genus?)
